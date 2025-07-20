@@ -43,7 +43,7 @@ const Hero = () => {
                 </span>
               </h1>
               <h2 className="text-xl sm:text-2xl lg:text-3xl text-muted-foreground font-medium">
-                Data Scientist | ML & AI Automation Enthusiast
+                Data Scientist | ML & AI Agent Enthusiast
               </h2>
             </div>
             
