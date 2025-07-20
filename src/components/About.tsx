@@ -20,7 +20,7 @@ const About = () => {
       year: '2024',
       title: 'Quant Analysis & Backtesting',
       skills: ['Time Series Modeling', 'ARIMA', 'GARCH', 'Backtesting', 'VaR', 'Risk Analysis'],
-      description: 'Focused on quantitative methods and time-series forecasting. Built backtesting systems and explored risk modeling in real-world forex data.'
+      description: 'Focused on quantitative methods and time-series forecasting. Built backtesting systems and explored risk modeling in real world forex data.'
     },
     {
       year: '2025',
@@ -50,7 +50,7 @@ const About = () => {
                   I’m not here to troubleshoot. I’m here to identify leverage points others miss.
                   I build real systems that break down markets, analyze volatility, and give me an edge. 
                   I study at Institut Teknologi Sumatra, but most of what I know comes from building things that actually solve problems. 
-                  My focus? Turning noise into structure, especially in the chaos of forex.
+                  Turning noise into structure, especially in the chaos of forex is my focus.
                 </p>
                 <p>
                   At the heart of my work is a custom built LLM agent, my own macro analyst. 
