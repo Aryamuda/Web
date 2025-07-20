@@ -36,7 +36,7 @@ const Projects = () => {
     {
       title: 'Macro Event-Driven Analysis System',
       description: 'Implemented a system that fuses quantitative analysis with narrative sentiment analysis from news data. I use a ChromaDB vector database to manage and query the narrative information, which allows for more context-aware insights.',
-      tools: ['Python', 'OpenAI API', 'Chromadb', 'Twelvedata API','Gnews','NewsAPI','pyyaml', 'Real-time Processing'],
+      tools: ['Python','LangGraph', 'OpenAI API', 'Chromadb', 'Twelvedata API','Gnews','NewsAPI','pyyaml', 'Real-time Processing'],
       icon: <Database className="h-6 w-6" />,
       image: 'https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=400&h=250&fit=crop',
       videoUrl: 'https://example.com/demo-video',
