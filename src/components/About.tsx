@@ -47,7 +47,7 @@ const About = () => {
               <h3 className="text-2xl font-semibold mb-6 text-primary">My Story</h3>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  I’m not here to troubleshoot. I’m here to identify leverage points others miss.
+                  I’m here to identify leverage points others miss.
                   I build real systems that break down markets, analyze volatility, and give me an edge. 
                   I study at Institut Teknologi Sumatra, but most of what I know comes from building things that actually solve problems. 
                   Turning noise into structure, especially in the chaos of forex is my focus.
