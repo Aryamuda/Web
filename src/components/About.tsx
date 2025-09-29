@@ -50,7 +50,7 @@ const About = () => {
                   I’m here to identify leverage points others miss.
                   I build real systems that break down markets, analyze volatility, and give me an edge. 
                   I study at Institut Teknologi Sumatra, but most of what I know comes from building things that actually solve problems. 
-                  Turning noise into structure, especially in the chaos of forex is my focus.
+                  Turning noise into structure, especially in the chaos of market is my focus.
                 </p>
                 <p>
                   At the heart of my work is a custom built LLM agent, my own macro analyst. 
