@@ -103,7 +103,7 @@ const Hero = () => {
               <div className="w-80 h-80 rounded-full bg-gradient-to-br from-primary/20 to-electric-teal/20 p-2">
                 <div className="w-full h-full rounded-full bg-card border border-border overflow-hidden">
                   <img 
-                    src="https://kkkckuhjmqudzamguxza.supabase.co/storage/v1/object/public/screenshots/eur-usd/EUR-USD_ASIA-OPEN_2025-07-20T04-02-51.png" 
+                    src="https://drive.google.com/file/d/1iX_eztsN9d_VWmoHJLY_HGfJqE43fb0J/view?usp=sharing" 
                     alt="Arya Siregar - Data Scientist"
                     className="w-full h-full object-cover"
                   />
